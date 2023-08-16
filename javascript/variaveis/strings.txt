@@ -1,0 +1,3 @@
+Valores de textos, normalmente chamados de "cadeias de caracteres";
+
+let helloWorld = "Hello World JS";

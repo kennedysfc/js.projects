@@ -1,0 +1,22 @@
++
+-
+*
+/
+
+
+ex.1
+let numero1 = 5;
+let numero2 = 7;
+let resultado = numero1 + numero2;
+
+
+ex.2
+let numero1 = 5;
+let resultado = * 0.5;
+
+
+ex.3
+let numero1 = 5;
+// Cuidado:
+// Divisão por 0 causará erro
+let resultado = numero / 0;

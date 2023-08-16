@@ -1,0 +1,9 @@
+tipos de dados
+
+- Number
+- Strings
+- Boolean
+- Array
+- Null e Undefined
+- Object
+- Function

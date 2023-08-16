@@ -1,0 +1,6 @@
+São todos os némeros reais que aprendenmos nas aulas de matemática
+
+
+let numeroInteiro = 100;
+let numeroDecimal = 5.38;
+let numeroNegativo = -200.99;

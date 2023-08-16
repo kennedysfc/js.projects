@@ -1,0 +1,32 @@
+COMPARAÇOES
+
+//true
+let comparacao = 1 == 1;
+
+//false
+let comparacao2 = 1 > 5;
+
+//true
+let comparacaoString = "banana" == "banana";
+
+
+obs: se for testado 1 == "1", o resultado será considerado verdadeiro. Para fazer comparações que levam em consideração o valor e o tipo do dado, ultilize ===
+
+ex.
+//true
+console.log(1 == "1");
+
+//false
+console.log(1 === "1");
+
+OPERADOR
+
+==       valor igual
+===      valor e tipos iguais
+!=       valor diferente de
+!==      valor e tipos deifentes de
+<,<=     Menor(menor igual)a
+>,>=     Maior(maior igual)a
+&&       e
+||       ou
+!	 não

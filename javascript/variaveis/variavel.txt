@@ -1,0 +1,17 @@
+nomes temporarios
+No JS , podemos declarar uma variável de três formas:
+
+
+- var: podendo atribuir valor junto a sua criação
+ex.
+var umNumero;
+var umNumero = 10;
+
+- let: variável com escorpo de bloco
+ex.
+let outroNumero = 5;
+
+- const: variável apenas de uma leitura. Após atribuir valor a uma const, não será posssível altera-la:
+ex.
+const ola = "Olá Mundo";
+
